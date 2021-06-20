@@ -1,0 +1,10 @@
+Earth is third planet from sun
+Vehicles
+car
+jeep
+bike
+State
+thrissur
+idukki
+kannur
+atcommand
